@@ -1,7 +1,7 @@
 # Solana Transaction Listener
 
 ## Overview
-A Python script that monitors transactions for a specific Solana address using asynchronous RPC calls.
+A Python script that monitors transactions for a specific Solana address using asynchronous RPC calls. (Default is pump.fun)
 
 ## Features
 - Monitors a specific Solana wallet address
