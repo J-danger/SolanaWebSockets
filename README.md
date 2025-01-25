@@ -27,7 +27,7 @@ Modify the following variables in the script:
 
 ## Usage
 ```bash
-python solana_transaction_monitor.py
+python mintCheck.py
 ```
 
 ## Key Dependencies
